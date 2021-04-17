@@ -22,7 +22,7 @@ setup_args = dict(
 )
 
 install_requires = [
-    'pycryptodome==3.9.8',
+    'pycryptodome==3.10.1',
     'pkcs7==0.1.2',
     'requests==2.24.0',
 ]
