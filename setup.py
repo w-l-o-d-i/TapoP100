@@ -7,7 +7,7 @@ with open('HISTORY.md') as history_file:
     HISTORY = history_file.read()
 
 setup_args = dict(
-    name='PyP100',
+    name='PyP100_Test',
     version='0.0.10',
     description='A module for controlling the TP-Link Tapo P100 Plugs, P105 Plugs and L1510 Bulbs.',
     long_description_content_type="text/markdown",
